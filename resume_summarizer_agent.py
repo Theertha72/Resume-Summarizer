@@ -1,4 +1,3 @@
-%%writefile app2.py
 import os
 import streamlit as st
 from langchain_groq import ChatGroq
